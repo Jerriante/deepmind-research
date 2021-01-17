@@ -1,3 +1,5 @@
+Try to set up alphafold environment...
+
 # AlphaFold
 
 This package provides an implementation of the contact prediction network,
